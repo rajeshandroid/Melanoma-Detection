@@ -11,3 +11,4 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 The data set contains the following diseases:
 
 To overcome the issue of class imbalance, used a python package Augmentor (https://augmentor.readthedocs.io/en/master/) to add more samples across all classes so that none of the classes have very few samples.
+##Submitted by Ajay Mehta
